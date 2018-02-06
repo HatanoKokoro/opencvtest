@@ -1,0 +1,2 @@
+# opencvtest
+使用opencv3从银行卡中截取出号码使用Tess4J读取图片中的号码
