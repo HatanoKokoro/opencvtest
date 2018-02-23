@@ -6,3 +6,4 @@
 
 ##### tessdata需要和src同级 如果要其他语言支持需要下载其他traineddata放在tessdata下
 ##### opencv_java340.dll 需要放在src同级 也可以放在jdk的bin下  也可以用VM参数指定
+##### 在openCV 3.X中 使用 Imgcodecs 替代了Highgui ， Core的一部分被Imgproc 替代了
